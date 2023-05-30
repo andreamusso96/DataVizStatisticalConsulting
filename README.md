@@ -1,38 +1,62 @@
+Sure, here's the markdown for your GitHub README. 
+
+---
+
 # DataVizStatisticalConsulting
 
 ## Running the script
 
-Here is a set by step guide that you can follow to run the script. 
-First, you need to open a terminal window in your computer and go to the folder in which you want to copy this project. 
-Next, you can type the following commands in the terminal. 
+Here is a step by step guide that you can follow to run the script:
 
-Step 1: Copy the GitHub repository to your computer by typing into the terminal:
+1. Open a terminal window on your computer and navigate to the folder where you want to clone this project.
 
-git clone https://github.com/andreamusso96/DataVizStatisticalConsulting.git
+2. Run the following commands in the terminal.
 
-Step 2: Enter the DataVizStatisticalConsulting folder with the command
+   - **Step 1:** Clone the GitHub repository to your computer:
 
-cd DataVizStatisticalConsulting
+     ```
+     git clone https://github.com/andreamusso96/DataVizStatisticalConsulting.git
+     ```
 
-Step 3: Once inside the folder create a virtual environment in Python. This virtual environment will store the python packages required to run the script.
+   - **Step 2:** Navigate into the cloned repository:
 
-python -m venv myenv
+     ```
+     cd DataVizStatisticalConsulting
+     ```
 
-Step 4: Activate the virtual environment
+   - **Step 3:** Create a Python virtual environment. This environment will store the Python packages required to run the script:
 
-source myenv/bin/activate
+     ```
+     python -m venv myenv
+     ```
 
-Step 5: Upgrade pip
+   - **Step 4:** Activate the virtual environment:
 
-pip install --upgrade pip
+     ```
+     source myenv/bin/activate
+     ```
 
-Step 6: Install the required packages
+   - **Step 5:** Upgrade pip:
 
-pip install -r requirements.txt
+     ```
+     pip install --upgrade pip
+     ```
 
-Step 7: Run the script
+   - **Step 6:** Install the required packages:
 
-python main.py
+     ```
+     pip install -r requirements.txt
+     ```
+
+   - **Step 7:** Run the script:
+
+     ```
+     python main.py
+     ```
+
+---
+
+This should give you a well-formatted and clear README for your GitHub project. Remember to adjust paths, filenames, and commands if necessary to fit your specific project needs.
 
 
 
