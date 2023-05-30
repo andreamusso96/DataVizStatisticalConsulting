@@ -1,5 +1,3 @@
-Sure, here's the markdown for your GitHub README. 
-
 ---
 
 # DataVizStatisticalConsulting
