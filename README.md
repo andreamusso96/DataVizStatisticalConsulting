@@ -29,6 +29,8 @@ Here is a step by step guide that you can follow to run the script:
      ```
      python -m venv myenv
      ```
+     
+     Note: if by chance this does not work try out 'python3 -m venv myenv' instead. 
 
    - **Step 4:** Activate the virtual environment:
 
@@ -55,8 +57,6 @@ Here is a step by step guide that you can follow to run the script:
      ```
 
 ---
-
-This should give you a well-formatted and clear README for your GitHub project. Remember to adjust paths, filenames, and commands if necessary to fit your specific project needs.
 
 
 
