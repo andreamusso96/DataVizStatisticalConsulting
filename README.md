@@ -26,7 +26,7 @@ Here is a step by step guide that you can follow to run the script:
      python -m venv myenv
      ```
      
-     Note if by chance this does not work try out 'python3 -m venv myenv' instead. 
+     If by chance this does not work try out 'python3 -m venv myenv' instead. 
 
    - **Step 4:** Activate the virtual environment:
 
